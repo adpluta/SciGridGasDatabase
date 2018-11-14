@@ -1,0 +1,30 @@
+MetaLable;Start;Stop;Source;Licence
+TEXT ;INT;INT;TEXT;TEXT
+[];YYYY;YYYY;[];[]
+Zeebrugge;;;Interconnector,Franpipe;
+Nybro;;;Tyra east, South Arne;
+Dornum;;;Europipe I, Europipe II;
+Emden;;;Norpipe;
+Greifswald;;;Nordstream;
+Narva;;;Baltic Pipeline System;
+Varska;;;Baltic Pipeline System;
+Imatra;;;Gryazovets-Vyborg;
+Dunkerque;;;Interconnector,Franpipe;
+Kipi;;;;
+Komotini;;;interconnetor Tur-It-GR;
+Gela;;;Greenstream;
+MazaraDelVallo;;;TRANSMED;
+Korneti;;;Baltic Pipeline System;
+Kotlovka;;;Baltic Pipeline System;
+Sakiai;;;;
+Balgzand;;;BBL;
+Drozdwicze;;;Europol;
+Kondratki;;;EUROPOL;
+Wysokoje;;;Jamal;
+Isaccea;;;;
+Mediesu Aurit;;;?;
+Budince;;;EuStream;
+Almeria;;;MEDGAZ;
+Cordoba;;;MEG;
+Beregdaroc;;;?;
+ZaharaDeLosAtunes;;;;

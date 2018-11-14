@@ -1,0 +1,184 @@
+name;comment;element_type;country;lat;long;exact
+TEXT;TEXT;TEXT;TEXT;REAL;REAL;INT
+[];[];[];[];[degree];[degree];[]
+SanPotitoECotignola;Plant in build-up phase;{S};Italien;44.371034;11.919378;1
+7Fields;Storage Capacity connected to Germany and Austria;{S};Oesterreich;47.962006;13.356863;1
+Aigelsbrunn;;{S};Oesterreich;47.981978;13.312084;1
+Aldbrough_1;;{S};Grossbritanien;53.813895;-0.087273;1
+Aldbrough_2;;{S};Grossbritanien;53.813895;-0.087273;2
+Alfonsine;;{S};Italien;;;4
+Alkmaar;"Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";{S};Holland;52.650953;4.716946;1
+Allmenhausen;;{S};Deutschland;51.219587;10.702464;1
+AlsaceSud;;{S};Frankreich;;;2
+Atwick;;{S};Grossbritanien;53.946533;-0.207479;1
+BadLauchstaedt;;{S};Deutschland;51.430367;11.833526;1
+BadLauchstaedt;;{S};Deutschland;51.426884;11.835536;1
+BagnoloMella;;{S};Italien;45.423202;10.138115;1
+Balanceanca;;{S};Rumaenien;44.389969;26.310924;1
+BanatskiDvor;;{S};Serbien;45.537223;20.47481;1
+Bergermeer;;{S};Holland;52.639238;4.744591;2
+Berlin;;{S};Deutschland;52.513276;13.224641;1
+Bernburg;;{S};Deutschland;51.751229;11.75463;2
+BeynesProfond;;{S};Frankreich;48.843875;1.873851;1
+BeynesSup;;{S};Frankreich;48.843875;1.873851;1
+Bierwang;;{S};Deutschland;48.127548;12.402956;1
+Bilciuresti;;{S};Rumaenien;44.690654;25.775177;1
+Bonikowo;;{S};Polen;52.120077;16.645469;2
+Bordolano;;{S};Italien;45.287349;9.982015;1
+Bordolano;;{S};Italien;45.287349;9.982015;1
+Breitbrunn;;{S};Deutschland;47.922265;12.433821;2
+BremenLesum;;{S};Deutschland;53.160905;8.718167;1
+BruggrafBernsdorf;;{S};Deutschland;51.207898;11.479785;1
+Brugherio;;{S};Italien;;;5
+Brzeznica;;{S};Polen;;;5
+Buchholz;;{S};Deutschland;52.174964;12.926628;1
+Carrio;;{S};Portugal;39.983508;-8.85463;1
+Caythorpe;;{S};Grossbritanien;54.114951;-0.359108;2
+Cellino;;{S};Italien;;;4
+Cerville ;;{S};Frankreich;48.707076;6.298375;1
+CetateaDeBalta;;{S};Rumaenien;46.23695;24.208115;1
+Chiren;;{S};Bulgarien;43.349887;23.592123;1
+Collalto;;{S};Italien;45.852895;12.188481;1
+Cornegliano;;{S};Italien;45.287745;9.462563;1
+Cortemaggiore;;{S};Italien;44.991076;9.920891;1
+CugnoLeMacine;Cugno le Macine (Grottole-Ferrandina);{S};Italien;40.404885;16.532677;1
+Damasawek;;{S};Polen;52.836586;17.499403;2
+Damboice;;{S};Tschechien;49.054629;16.91432;1
+Daszewo;;{S};Polen;54.078486;15.881808;2
+Deborah;;{S};Grossbritanien;52.878453;1.44754;2
+DolniBojanovice;;{S};Tschechien;48.871374;17.028471;1
+Empelde;;{S};Deutschland;52.339624;9.650892;1
+EnergyStock;;{S};Holland;;;4
+Epe_H;;{S};Deutschland;52.175948;7.006152;1
+Epe_L;;{S};Deutschland;52.17595;7.00616;1
+Eschenfelden;;{S};Deutschland;52.175948;7.006152;1
+Etrez;;{S};Frankreich;46.336132;5.212561;1
+Etzel_D;;{S};Deutschland;53.461064;7.912085;1
+EWE_Elsfleth;;{S};Deutschland;53.194313;8.400715;1
+FiumeTreste;;{S};Italien;42.022911;14.699295;1
+Frankenthal;;{S};Deutschland;49.555408;8.409677;1
+Fronhofen;;{S};Deutschland;47.851208;9.414961;1
+Galata;;{S};Bulgarien;43.186113;28.205624;2
+Gatchinskoye;;{S};Russland;;;4
+Gateway;;{S};Grossbritanien;54.099578;-3.18364;1
+Gaviota;;{S};Spanien;43.443007;-2.756361;1
+GermignySousCoulombs;;{S};Frankreich;49.055792;3.173434;1
+Ghercesti;;{S};Rumaenien;44.352658;23.886504;2
+GournaySurAronde;;{S};Frankreich;49.526019;2.699989;1
+Grijpskerk;"Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";{S};Holland;53.278554;6.31028;1
+GrubisnoPolje;;{S};Croatia;45.718357;17.194853;2
+GSDVirtualGasStorageDenmark;;{S};Daenemark;;;5
+Haehnlein;;{S};Deutschland;49.7458;8.554382;1
+Haidach;Storage Capacity solely connected to Germany;{S};Oesterreich;47.9867;13.232375;1
+Hajduszoboszlo;;{S};Ungarn;47.507335;21.366312;1
+Harsefeld;;{S};Deutschland;53.435469;9.482867;1
+HatfieldMoor;;{S};Grossbritanien;53.553344;-0.958426;1
+Hauterives;;{S};Frankreich;;;2
+HillTopFarm;Hill Top Farm (Cheshire);{S};Grossbritanien;53.138712;-2.456099;2
+HJe;;{S};Tschechien;49.657311;14.048542;1
+HoleHouseFarm;;{S};Grossbritanien;53.138712;-2.456099;2
+Holford;;{S};Grossbritanien;53.225722;-2.405628;1
+HolfordBrinefield;;{S};Grossbritanien;53.234049;-2.434752;1
+Hornsea;Hornsea (Atwick);{S};Grossbritanien;53.946602;-0.207576;1
+HumblyGrove;;{S};Grossbritanien;51.194305;-1.010382;1
+Huntorf;;{SL};Deutschland;53.19421;8.400683;1
+Husow;;{S};Polen;50.006978;22.264141;1
+VirtualStorageTschechien;;{S};Tschechien;;;2
+Inukalns;;{S};Lettland;57.169567;24.696409;1
+InzenhamWest;;{S};Deutschland;47.887547;12.103307;2
+Islandmagee;;{S};Grossbritanien;54.842619;-5.778247;1
+Izaute;;{S};Frankreich;;;4
+Jemgum;The initial gas filling started in September 2013, first commercial operations were conducted in 2014/15.;{S};Deutschland;53.253484;7.388862;1
+Kaliningradskoe;;{S};Russland;;;4
+Kalle;;{S};Deutschland;53.253484;7.388862;1
+Kardoskut;;{S};Ungarn;46.495789;20.71714;1
+Katharina;;{S};Deutschland;51.748403;11.742807;1
+KielRoenne;;{S};Deutschland;54.266597;10.200844;1
+KingStreet;;{S};Grossbritanien;53.255659;-2.447396;1
+KinsaleSouthwest;;{S};Irland;51.608848;-8.533264;2
+Kirchheiligen;;{S};Deutschland;51.219587;10.702464;1
+Kosakowo;;{S};Polen;54.606362;18.454148;1
+Kraak;;{S};Deutschland;53.422766;11.360765;2
+Krummhoern;;{S};Deutschland;53.36059;7.065929;1
+LB4;;{S};Slowakei;48.425456;16.900032;1
+LilleTorup;;{S};Daenemark;56.640401;9.41462;1
+Lobodice;;{S};Tschechien;49.401112;17.298313;1
+Loenhout;;{S};Belgien;51.386993;4.703353;1
+Lussagnet;;{S};Frankreich;43.780448;-0.220066;1
+Marismas;;{S};Spanien;37.067092;-6.366233;2
+Minerbio;;{S};Italien;44.615731;11.497959;1
+Moeckow_H;;{S};Deutschland;53.994342;13.560306;2
+Mogilno;;{S};Polen;52.649656;17.8103;1
+Moldova;Moldova (Falticeni);{S};Rumaenien;47.45935;26.297489;2
+Mozyrskoye;;{S};Weissrussland;;;5
+Nevskoye;;{S};Russland;54.527717;20.604414;2
+Norg;"Norg (Langelo) Grijpskerk, Norg (NAM) and Alkmaar (TAQA) = Groningen System; No longer offering capacity, to be considered as a production facility.";{S};Holland;53.090774;6.430666;1
+NueÅttermoor_H;Storage Capacity connected to the Netherlands (GTS), E.ON share of 109,3 mcm solely used in NL;{S};Deutschland;53.259121;7.417349;1
+NueÅttermoor_L;;{S};Deutschland;53.25913;7.41736;1
+Nussdorf;Nussdorf/Zagling Storage Capacity connected to Germany and Austria;{S};Oesterreich;47.962013;13.356362;1
+Okoli;;{S};Croatia;45.59451;16.520556;1
+Osipovichskoye;;{S};Weissrussland;;;5
+PalazzoMoroni;;{S};Italien;43.226813;13.672527;2
+Peckensen;;{S};Deutschland;52.801137;10.942675;1
+Pinasses;;{S};Spanien;;;4
+Poggiofiorito;;{S};Italien;42.245019;14.22457;1
+Preesall;;{S};Grossbritanien;53.912959;-3.000976;2
+Pribugskoye;;{S};Weissrussland;;;5
+Puchkirchen;Puchkirchen/Haag GCV 11,31;{S};Oesterreich;48.015746;13.572981;1
+Pusztaederics;;{S};Ungarn;46.65711;16.794852;1
+Reckrod;;{S};Deutschland;50.783333;9.79881;1
+Rehden;;{S};Deutschland;52.613673;8.493598;1
+Ripalta;;{S};Italien;45.312181;9.700644;1
+Ron†;;{S};Tschechien;49.495061;16.215328;1
+Rough;Capacity offered under negotiated processes with rules that must be applied;{S};Grossbritanien;53.656595;0.117476;1
+RueÅdersdorf_H;;{S};Deutschland;52.478855;13.780083;2
+Sabbioncello;;{S};Italien;44.799498;11.899334;1
+SaintClairSurEpte ;;{S};Frankreich;49.20486;1.704706;1
+SaintIlliersLaVille;;{S};Frankreich;48.985068;1.55201;1
+SalineEtrez ;;{S};Frankreich;46.336132;5.212561;1
+SalineManosque;;{S};Frankreich;43.867715;5.755809;1
+SalineTersanne;;{S};Frankreich;45.20973;4.984286;1
+Saltfleetby;;{S};Grossbritanien;53.393462;0.174512;2
+SanBenedetto;;{S};Italien;42.9283;13.839223;2
+Sandhausen;;{S};Deutschland;49.327473;8.644253;1
+Sarmasel;;{S};Rumaenien;46.782414;24.183885;1
+Schmidhausen;;{S};Deutschland;47.915455;10.039282;2
+Schoenkirchen;Schînkirchen/Reyersdorf;{S};Oesterreich;48.376237;16.69966;1
+SERENE Littoral, SERENE Sud: CÇrÇ-la-Ronde;;{S};Frankreich;47.2828;1.219284;1
+SERENE Littoral, SERENE Sud: ChÇmery;;{S};Frankreich;47.387853;1.486212;1
+SERENE Littoral, SERENE Sud: Soings-en-Sologne;;{S};Frankreich;47.426783;1.49935;1
+Sergnano;;{S};Italien;45.427834;9.698543;1
+Serrablo;;{S};Spanien;42.578117;-0.391536;1
+Settala;;{S};Italien;45.451445;9.40167;1
+Silivri;Silivri (Marmara);{S};Tuerkei;41.106836;28.180646;1
+Sinarca;;{S};Italien;;;5
+Skallen;;{S};Sweden;56.798359;12.863828;2
+SouthKavala;;{S};Griechenland;NaN;NaN;4
+Stassfurt;;{S};Deutschland;51.891723;11.555702;1
+Stenlille;;{S};Daenemark;55.547794;11.62362;1
+Stockstadt;;{S};Deutschland;49.822999;8.484942;1
+STOGIT (storage group);TPA includes volumes allocated for production and transmission operation purposes. Non-TPA refers to strategic storage volumes with no withdrawal/injection capacity associated.;{S};Italien;;;5
+Strachocina;;{S};Polen;49.62671;22.072274;1
+Stublach;;{S};Grossbritanien;53.234065;-2.435024;1
+Swarzow;;{S};Polen;50.197537;20.945148;1
+Syderiai;;{S};Litauen;55.890548;22.302939;2
+Szreg_1;;{S};Ungarn;46.302801;20.194969;1
+Tallesbrunn;;{S};Oesterreich;48.355222;16.778209;1
+Tanovice;;{S};Tschechien;49.714948;18.531823;1
+Tarsus;;{S};Tuerkei;36.9175;34.883837;2
+TÉrguMure;TÉrgu Mure?;{S};Rumaenien;46.565927;24.553105;2
+Thann;;{S};Oesterreich;;;4
+TIGF (storage group );;{S};Frankreich;;;4
+Tramberk;;{S};Tschechien;49.593741;18.091834;1
+TroisFontainesAbbaye;;{S};Frankreich;48.699704;4.973132;1
+TuzGlÅ;Tuz GîlÅ / Aksaray Sultanhan’;{S};Tuerkei;38.099356;33.584839;1
+Tvrdonice;;{S};Tschechien;48.780688;16.936667;1
+Uelsen;;{S};Deutschland;52.504885;6.829442;1
+Uhice;Uh?ice;{S};Tschechien;49.036809;16.933182;1
+Urziceni;;{S};Rumaenien;44.720131;26.60623;1
+VelkeKapusany;;{S};Slowakei;48.482002;22.121625;1
+Wierzchowice;;{S};Polen;51.475463;17.306302;1
+Wolfersberg;;{S};Deutschland;48.042629;11.816447;1
+Xanten;;{S};Deutschland;51.663755;6.426365;1
+Yela;;{S};Spanien;40.806749;-2.822598;1
+Zsana;;{S};Ungarn;46.423701;19.700702;1

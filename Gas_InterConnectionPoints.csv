@@ -1,0 +1,121 @@
+name;description;element_type;country;lat;long;exact;licence;name;description;element_type;country;lat;long;exact;licence;start;end;source;pipeline
+TEXT;TEXT;TEXT;TEXT;REAL;REAL;INT;;TEXT;TEXT;TEXT;TEXT;REAL;REAL;INT;;[yyyy];[yyyy];[];[]
+[str];;[char];[strg];[double];[double];[int];[str];[str];;[char];[strg];[double];[double];[int];[str];[int];[int];[string];[strg]
+Almeria;;{I};Spanien;36.834047;-2.4637136;3;;;;;;;;;;;;;
+Alveringem;;{I};Belgien;51.0123224;2.7095311;3;;;;;;;;;;;;;Alveringem-Maldegem pipeline
+Arnoldstein;;{I};Oesterreich;46.5499903;13.7057619;3;;;;;;;;;;;;;medgaz
+BackiBreg;;{I};Serbien;45.9166015;18.9673241;3;;;;;;;;;;;;;
+Badajoz;;{I};Spanien;38.8794495;-6.9706535;3;;;;;;;;;;;;;
+Balassagyarmat;;{I};Ukraine;48.0711866;19.2937136;3;;;;;;;;;;;;;Slovak-Hungarian Gas Interconnector
+Balgzand;;{I};Holland;52.8982381;4.845275;3;;;;;;;;;;;;;
+Ballylumford;;{I};Grossbritanien;54.8460872;-5.7891679;3;;;;;;;;;;;;;
+Basel;;{I};Oesterreich;47.5595986;7.5885761;3;;;;;;;;;;;;;
+Baumgarten;;{I};Oesterreich;48.2091315;14.7457884;3;;;;;;;;;;;;;WAG
+Beregdaroc;;{I};Ungarn;48.1971868;22.6370954;3;;;;;;;;;;;;;
+Bibesti;;{I};Rumaenien;44.7815366;23.4907078;3;;;;;;;;;;;;;
+Biriatou;;{I};Frankreich;43.333204;-1.743022;3;;;;;;;;;;;;;
+Bochholtz;;{I};Holland;50.8180412;6.0088551;3;;;;;;;;;;;;;TENP
+Brandov;;{I};Tschechien;50.6320103;13.390731;3;;;;;;;;;;;;;
+BrighthouseBay;;{I};Grossbritanien;54.78735;-4.12912;3;;;;;;;;;;;;;
+Budince;;{I};Slowakei;48.5448153;22.1227244;3;;;;;;;;;;;;;Vojany-U?horod pipeline
+Burghausen;;{I};Deutschland;48.1725613;12.8310753;3;;;;;;;;;;;;;MONACO
+CampoMaior;;{I};Portugal;39.0134528;-7.0700063;3;;;;;;;;;;;;;
+Cersak;;{I};Slowenien;46.699017;15.6679742;3;;;;;;;;;;;;;
+Cordoba;;{I};Spanien;37.8881751;-4.7793835;3;;;;;;;;;;;;;
+Cordoba;;{I};Spanien;37.8881751;-4.7793835;3;;;;;;;;;;;;;
+Csanadpalota;;{I};Ukraine;46.2361111;20.7325;3;;;;;;;;;;;;;
+Deutschneudorf;;{I};Deutschland;50.6054143;13.4643637;3;;;;;;;;;;;;;
+Dilsen;;{I};Belgien;51.03747;5.72215;3;;;;;;;;;;;;;
+DonjiMiholac;;{I};Kroatien;45.762142;18.1651379;3;;;;;;;;;;;;;Gas pipeline between V rosf”ld-Slobodnica
+Dornum;;{I};Deutschland;53.6459028;7.4304511;3;;;;;;;;;;;;;
+Dravaszerdahely;;{I};Ukraine;45.8363562;18.1638527;3;;;;;;;;;;;;;
+Drozdwicze;;{I};Polen;49.8087968;23.6441847;3;;;;;;;;;;;;;
+Dunkerque;;{I};Frankreich;51.0343684;2.3767763;3;;;;;;;;;;;;;
+Ellund;;{I};Deutschland;54.7958121;9.3083302;3;;;;;;;;;;;;;
+Elten;;{I};Deutschland;51.873211;6.1623348;3;;;;;;;;;;;;;
+Emden;;{I};Deutschland;53.3594029;7.2060095;3;;;;;;;;;;;;;NPT, EPT
+Emsburen;;{I};Deutschland;52.3926684;7.2926853;3;;;;;;;;;;;;;
+Eynatten;;{I};Belgien;50.6921704;6.0834561;3;;;;;;;;;;;;;
+Fallentor;;{I};Schweiz;47.658044;8.6948726;3;;;;;;;;;;;;;
+Gela;;{I};Italien;37.0741526;14.2403537;3;;;;;;;;;;;;;
+Gorizia;;{I};Italien;45.9401812;13.6201754;3;;;;;;;;;;;;;
+Gravenvoeren;;{I};Belgien;50.7587829;5.7611628;3;;;;;;;;;;;;;
+Haidach;;{I};Oesterreich;47.3420871;11.8423527;3;;;;;;;;;;;;;
+Haiming;;{I};Deutschland;48.2120837;12.8875966;3;;;;;;;;;;;;;
+Hermahnowice;;{I};Polen;49.7230552;22.8148987;3;;;;;;;;;;;;;
+Hilvarenbeek;;{I};Holland;51.4856827;5.1384062;3;;;;;;;;;;;;;
+Hugelheim;;{I};Deutschland;47.8302767;7.6210786;3;;;;;;;;;;;;;
+Imatra;;{I};Finnland;61.1695977;28.7645463;3;;;;;;;;;;;;;
+Inzenham;;{I};Deutschland;47.8808712;12.2282127;3;;;;;;;;;;;;;
+Isaccea;;{I};Rumaenien;45.265423;28.4607273;3;;;;;;;;;;;;;
+Jura;;{I};Frankreich;47.3444474;7.1430608;3;;;;;;;;;;;;;
+Kardam;;{I};Bulgarien;43.7538009;28.1079003;3;;;;;;;;;;;;;
+Karksi;;{I};Estland;58.1002085;25.5493386;3;;;;;;;;;;;;;
+Kiefersfelden;;{I};Deutschland;47.6181459;12.1868662;3;;;;;;;;;;;;;
+Kiemenai;;{I};Litauen;56.2502439;24.2909848;3;;;;;;;;;;;;;
+Kipi;;{I};Griechenland;40.9450804;26.3110854;3;;;;;;;;;;;;;
+Kiskundorozsma;;{I};Tschechien;46.2730809;20.063011;3;;;;;;;;;;;;;
+Kondratki;;{I};Polen;53.0156509;23.910169;3;;;;;;;;;;;;;Yamal
+Korneti;;{I};Lettland;57.5928519;26.9434759;3;;;;;;;;;;;;;Baltic Pipeline System
+Kotlovka;;{I};Litauen;54.716599;25.7475233;3;;;;;;;;;;;;;
+Kulata;;{I};Bulgarien;41.3875814;23.3632506;3;;;;;;;;;;;;;
+Kyustendil;;{I};Bulgarien;42.2868817;22.6939308;3;;;;;;;;;;;;;
+Lanzhot;;{I};Tschechien;48.7244312;16.9669527;3;;;;;;;;;;;;;
+Larrau;;{I};Frankreich;43.018757;-0.955718;3;;;;;;;;;;;;;
+Lasow;;{I};Polen;51.2286263;15.0307916;3;;;;;;;;;;;;;
+Lindau;;{I};Deutschland;47.5797815;9.6789333;3;;;;;;;;;;;;;
+Loughshinny;;{I};Irland;53.5484048;-6.0856237;3;;;;;;;;;;;;;
+Loznica;;{I};Serbien;44.5313463;19.2067663;3;;;;;;;;;;;;;
+Mallnow;;{I};Deutschland;52.416667;14.533056;3;;;;;;;;;;;;;
+MazaraDelVallo;;{I};Italien;37.6550933;12.5899615;3;;;;;;;;;;;;;TransMed
+Medelsheim;;{I};Deutschland;49.1431412;7.2683408;3;;;;;;;;;;;;;MEGAL Nord
+MediesuAurit;;{I};Rumaenien;47.786743;23.1376644;3;;;;;;;;;;;;;
+Mellitah;;{I};Lybien;32.8547005;12.2404869;3;;;;;;;;;;;;;Greenstream
+Mosonmagyarovar;;{I};Ukraine;47.8681469;17.2689169;3;;;;;;;;;;;;;
+Murfeld;;{I};Oesterreich;46.7163493;15.6750397;3;;;;;;;;;;;;;
+Narva;;{I};Estland;59.3796931;28.1790751;3;;;;;;;;;;;;;
+NegruVoda;;{I};Rumaenien;43.8155851;28.2176216;3;;;;;;;;;;;;;
+Nemencine;;{I};Litauen;54.760443;25.3672514;3;;;;;;;;;;;;;
+Nybro;;{I};Daenemark;56.247698;8.878005;3;;;;;;;;;;;;;
+Obbicht;;{I};Holland;51.0280231;5.7812382;3;;;;;;;;;;;;;
+Oberkappel;;{I};Oesterreich;48.5527707;13.7716319;3;;;;;;;;;;;;;
+Olbernhau;;{I};Deutschland;50.6588625;13.3383108;3;;;;;;;;;;;;;
+Oltinigue ;;{I};Frankreich;47.492301;7.391487;3;;;;;;;;;;;;;
+Orlovka;;{I};Ukraine;54.7929425;20.5292624;3;;;;;;;;;;;;;TENP
+Otranto;;{I};Italien;40.1438978;18.4911678;3;;;;;;;;;;;;;
+OudeStatenzijl;;{I};Holland;53.2019;7.205;3;;;;;;;;;;;;;EPT, NPT
+Pakruojis;;{I};Litauen;55.9825873;23.8584483;3;;;;;;;;;;;;;
+PassoGries;;{I};Schweiz;46.45;8.3666667;3;;;;;;;;;;;;;Transitgas Pipeline
+Petange ;;{I};Luxemburg;49.5559747;5.8758655;3;;;;;;;;;;;;;
+Pfronten;;{I};Deutschland;47.5766418;10.5264351;3;;;;;;;;;;;;;
+Piombino;;{I};Italien;42.9256335;10.5258891;3;;;;;;;;;;;;;
+Raeren;;{I};Belgien;50.6770198;6.1097331;3;;;;;;;;;;;;;
+Remich;;{I};Luxemburg;49.545017;6.3674222;3;;;;;;;;;;;;;
+Rogatec;;{I};Slowenien;46.2258891;15.7000312;3;;;;;;;;;;;;;
+Sakiai;;{I};Litauen;54.952671;23.0480199;3;;;;;;;;;;;;;
+Sempeter;;{I};Slowenien;45.9283576;13.6400285;3;;;;;;;;;;;;;
+Sidirokastron ;;{I};Griechenland;41.2349471;23.3938203;3;;;;;;;;;;;;;
+Silistea;;{I};Rumaenien;44.4004266;28.1771147;3;;;;;;;;;;;;;
+Strandja;Srtandszha;{I};Bulgarien;42.0125;27.608611;3;;;;;;;;;;;;;
+Takovo;;{I};Serbien;44.0368836;20.387069;3;;;;;;;;;;;;;
+Tarvisio;;{I};Italien;46.4654751;13.5534595;3;;;;;;;;;;;;;
+Trzac;;{I};Bosnien Herzogowina;44.9976747;15.7846558;3;;;;;;;;;;;;;
+Tuy;;{I};Spanien;42.049155;-8.6466099;3;;;;;;;;;;;;;
+Uberackern;;{I};Oesterreich;48.1928972;12.8747485;3;;;;;;;;;;;;;
+UmagRijeka;;{I};Kroatien;45.4314032;13.5296337;3;;;;;;;;;;;;;
+Uzhgorod;;{I};Ukraine;48.6208;22.287883;3;;;;;;;;;;;;;
+ValeDeFrades;;{I};Portugal;41.6278474;-6.482318;3;;;;;;;;;;;;;
+ValencoDoMinho;;{I};Portugal;42.0248024;-8.6398019;3;;;;;;;;;;;;;
+Varska;;{I};Estland;57.9570536;27.6375433;3;;;;;;;;;;;;;
+Vodice;;{I};Slowenien;46.1896643;14.4938539;3;;;;;;;;;;;;;
+Vyborg;;{I};Russland;60.7139529;28.7571571;3;;;;;;;;;;;;;
+Waidhaus;;{I};Deutschland;49.6417301;12.4962639;3;;;;;;;;;;;;;megal
+Wallbach;;{I};Schweiz;47.5591058;7.9042193;3;;;;;;;;;;;;;
+Winterswijk;;{I};Holland;51.977038;6.7454136;3;;;;;;;;;;;;;
+Wysokoje;;{I};Polen;52.367978;23.3759718;3;;;;;;;;;;;;;
+Zajecar;;{I};Serbien;43.9015048;22.2738011;3;;;;;;;;;;;;;
+Zandvliet;;{I};Holland;51.35965;4.30716;3;;;;;;;;;;;;;
+Zeebrugge;;{I};Belgien;51.3189468;3.2068507;3;;;;;;;;;;;;;
+Zelzate;;{I};Belgien;51.1987114;3.8119772;3;;;;;;;;;;;;;
+Zevenaar;;{I};Holland;51.9345728;6.0741029;3;;;;;;;;;;;;;
+Zhidilovo;;{I};Mazedonien;42.2242526;22.398599;3;;;;;;;;;;;;;
